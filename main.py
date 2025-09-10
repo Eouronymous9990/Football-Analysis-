@@ -98,6 +98,6 @@ out.release()
 csv_file.close()
 cv2.destroyAllWindows()
 
-print(f"[INFO] الفيديو محفوظ في: {os.path.abspath(output_path)}")
-print(f"[INFO] ملف الزوايا محفوظ في: {os.path.abspath('angles_output.csv')}")
+
+
 
